@@ -321,6 +321,23 @@ section {
 
 /* ----------------------------hero section END--------------------------- */
 
+
+/* ------------------------Mission and Vision starts---------------------- */
+
+.vision,.mission,.objectives{
+    font-size: 2.5rem;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.vision-content{
+    font-size: 1.5rem;
+}
+
+
+/* ------------------------Mission and Vision ends---------------------- */
+
+
 /* ----------------------------Schedule section--------------------------- */
 
 #schedule .accordion * {

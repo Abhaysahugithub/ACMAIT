@@ -334,6 +334,10 @@ section {
     font-size: 1.5rem;
 }
 
+.vision-content li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 
 /* ------------------------Mission and Vision ends---------------------- */
 
